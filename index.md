@@ -36,6 +36,7 @@ layout: homepage
 - ⭐ 🌐 [Getting to Grips with LaTeX](https://www.andy-roberts.net/latex/)
 - ⭐ 🌐 [LaTeX cheat sheet](https://wch.github.io/latexsheet/)
 - 🌐 [Writing with LaTeX](https://vknight.org/tex/)
+- 🌐 [10 Things to Know About Writing Academic Papers in LaTeX](https://egap.org/resource/10-things-writing-in-latex/)
 
 ### **Figures, Tables, and Others**
 
