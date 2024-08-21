@@ -9,7 +9,7 @@ layout: homepage
 ### by [Ozlem Tuncel, PhD](https://ozlemtuncel.github.io/)
 
 # Slides
-- **[Introduction to LaTeX](https://ozlemtuncel.quarto.pub/data-visualization-in-r/)** by Ozlem Tuncel
+- **[Introduction to LaTeX](https://docs.google.com/presentation/d/1-y2VIySQyAxbY6xNRrC-r1gff35dRiZX269FHol20Ns/pub?start=false&loop=false&delayms=3000)** by Ozlem Tuncel
 
 # My go-to sources for learning LaTeX
 
