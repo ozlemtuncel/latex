@@ -11,10 +11,6 @@ layout: homepage
 # Slides
 - **[Introduction to LaTeX](https://docs.google.com/presentation/d/1-y2VIySQyAxbY6xNRrC-r1gff35dRiZX269FHol20Ns/pub?start=false&loop=false&delayms=3000)** by Ozlem Tuncel
 
-# My go-to sources for learning LaTeX
-
-<img src="assets/img/r_sources.png" alt="I relied on these sources to learn R" style="width: 70%; height: auto;">
-
 # Very Incomprehensive Sources for Learning LaTeX
 *If you need more resources on specific things, I have created this incomprehensive list of sources to learn R.*
 
